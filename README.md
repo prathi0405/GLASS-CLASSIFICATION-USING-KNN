@@ -1,8 +1,12 @@
 # GLASS-CLASSIFICATION-USING-KNN
 Glass type classifiaction using using KNN algorithm.
+
 This is a Glass Type Identification Data Set from KAGGLE. It contains 10 attributes including id. The response is glass type(discrete 7 values)
+
 Id number: 1 to 214 (removed from CSV file)
+
 RI: refractive index
+
 Na: Sodium (unit measurement: weight percent in corresponding oxide, as are attributes 4-10)
 Mg: Magnesium
 Al: Aluminum
