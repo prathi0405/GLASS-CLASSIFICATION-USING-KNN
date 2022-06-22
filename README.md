@@ -36,7 +36,11 @@ STREAMLIT  is used for building an User Interface.
 
 Tech stuffs Used:
     >Python 3.8.8
+    
     >Streamlit
+    
     >Pandas
+    
     >Numpy
+    
     >Scikit learn
